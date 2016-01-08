@@ -108,7 +108,7 @@ def custom_remove(input_list, value):
 
     """
 
-    pass
+    for index in range(custom_len)
 
 
 def custom_pop(input_list):
